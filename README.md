@@ -21,14 +21,18 @@ Films with the combination of Adventure, Animation, Comedy and  Action, Adenture
 
 ![gross_plot_.png](./images/gross_plot.png)
 
+Movies with the genre Adventure, Animation, Comedy as well as Action, Adventure, Sci-Fi have the highest total gross (domestic + foreign).
+
+![total_gross_plot.png](./images/total_gross_plot.png)
+
 ## Conclusions
 This analysis lead to the following recommendations for Microsoft:
 
-- **Movie combinations of Action,Adventure,Sci-Fi and Adventure,Animation,Comedy do very well in both domestic and foreign markets. These film combinations also have high total gross revenues that is domestic plus foreign revenues. Microsoft can consider making movies with the above combinations. 
+- **Movie combinations of Action,Adventure,Sci-Fi and Adventure,Animation,Comedy do very well in both domestic and foreign markets.** These film combinations also have high total gross revenues that is domestic plus foreign revenues. Microsoft can consider making movies with the above combinations. 
 
-- **Action,Adenture,Sci-Fi movie combinations along with Action,Thriller and Adventure,Drama,Sci-Fi moves have the highest number of votes. The films coupled with these genres: Inception, The Dark Knight Rises and Interstellar can serve as good points to borrow ideas on what movies to make. Additionally, Microsoft can consider making sequels to these movies as a start.
+- **Action,Adenture,Sci-Fi movie combinations along with Action,Thriller and Adventure,Drama,Sci-Fi moves have the highest number of votes.**The films coupled with these genres: Inception, The Dark Knight Rises and Interstellar can serve as good points to borrow ideas on what movies to make. Additionally, Microsoft can consider making sequels to these movies as a start.
 
-- **Microsoft should make movies with a runtime of between 70 and 120 minutes as these types of movies recieved the highest ratings. Additionally, the genres that recieved the highest rating had a watch time of the above and were the following genres: Adventure, Documentary, Drama.
+- **Microsoft should make movies with a runtime of between 70 and 120 minutes as these types of movies recieved the highest ratings.**Additionally, the genres that recieved the highest rating had a watch time of the above and were the following genres: Adventure, Documentary, Drama.
 
 ## Next Steps
 In order to produce a more robust analysis and further insights additional datasets may be added in order to look into other factors that may influence the domestic and foreign gross as well as other variables. This can be information about specific actors or directors that influence viewers to watch a particular movie.
