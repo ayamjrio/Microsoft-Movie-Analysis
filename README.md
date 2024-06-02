@@ -14,12 +14,15 @@ Data used in this analysis is data from IMDB as well as Box office mojo. Togethe
 This project uses exploratory data analysis (EDA) to analyze different variables. This provides information about what films as well as their genres do well at the box office.
 
 ## Results
+The following are some of the results gathered from the analysis: 
+
 Films that have the combinations of Action, Adventure, Sci-Fi and Adventure, Animation, Comedy have the highest total domestic gross revenue.
 
+![gross_plot_.png](./images/total_domestic_gross_plot.png)
 
 Films with the combination of Adventure, Animation, Comedy and  Action, Adenture, Sci-Fi have the highest total foreign gross revenue.
 
-![gross_plot_.png](./images/gross_plot.png)
+![gross_plot_.png](./images/total_foreign_gross_plot.png)
 
 Movies with the genre Adventure, Animation, Comedy as well as Action, Adventure, Sci-Fi have the highest total gross (domestic + foreign).
 
@@ -35,7 +38,7 @@ This analysis lead to the following recommendations for Microsoft:
 - **Microsoft should make movies with a runtime of between 70 and 120 minutes as these types of movies recieved the highest ratings.**Additionally, the genres that recieved the highest rating had a watch time of the above and were the following genres: Adventure, Documentary, Drama.
 
 ## Next Steps
-In order to produce a more robust analysis and further insights additional datasets may be added in order to look into other factors that may influence the domestic and foreign gross as well as other variables. This can be information about specific actors or directors that influence viewers to watch a particular movie.
+In order to produce a more robust analysis and further insights additional datasets may be added in order to look into other factors that may influence the domestic and foreign gross as well as other variables. This can be information about specific actors or directors that influence viewers to watch a particular movie. Also, analysis can be performed based on the years e.g, what movies performed well in 2010 and use predictive modelling to see what movie genres can perform well in following years.
 
 ## For More Information
 See the full analysis in the [Jupyter Notebook](./movie_analysis.ipynb) or review this [presentation](./Movie_Analysis_Presentation.pdf).
